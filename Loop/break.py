@@ -1,3 +1,5 @@
+#BREAK - PRZERWANIE PĘTLI
+
 for candidate in range (2,31):
     isPrime = True
     for divider in range (2, candidate):
@@ -18,5 +20,6 @@ for candidate in range (2,31):
             break #przerwanie pętli wentrznej i przejście z powrotem do pętli pierwszej
     else: #nie wykona jeśli wewntrzna pętla nie zostanie złamana przez break
         print(candidate, 'is prime')
+
 
 

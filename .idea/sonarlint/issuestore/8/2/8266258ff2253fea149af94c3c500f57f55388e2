@@ -1,0 +1,5 @@
+
+|python:S1542"XRename function "GiveGeomSeqElement" to match the regular expression ^[a-z_][a-z0-9_]*$.(’¡Ì”ýÿÿÿÿ8ÑŒƒ²”1
+ypython:S1542	"ZRename function "GiveFactorForGeomSeq" to match the regular expression ^[a-z_][a-z0-9_]*$.(à¥úÇ8ÑŒƒ²”1
+spython:S117"URename this local variable "sumN" to match the regular expression ^[_a-z][a-z0-9_]*$.(ûãõÎ8ÒŒƒ²”1
+ƒpython:S1542"_Rename function "GiveSumOfNElementsGeomSeq" to match the regular expression ^[a-z_][a-z0-9_]*$.(šì™Ñúÿÿÿÿ8ÒŒƒ²”1

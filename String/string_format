@@ -1,0 +1,71 @@
+Podczas formatowania przy użyciu operatora % w Pythonie, używa się specjalnych znaków, takich jak %s, %d i inne, aby określić, jakie typy danych mają zostać sformatowane.
+Oto kilka często używanych opcji formatowania:
+
+%s - Sformatowanie jako napis (string). Przykład: "Hello %s!" % "world" zwróci "Hello world!".
+%d - Sformatowanie jako liczba całkowita (integer). Przykład: "The answer is %d" % 42 zwróci "The answer is 42".
+%f - Sformatowanie jako liczba zmiennoprzecinkowa (float). Przykład: "The value is %f" % 3.14 zwróci "The value is 3.140000".
+%.nf - Sformatowanie jako liczba zmiennoprzecinkowa ze zdefiniowaną precyzją, gdzie n to liczba miejsc po przecinku. Przykład: "The value is %.2f" % 3.14 zwróci "The value is 3.14".
+%x - Sformatowanie jako liczba szesnastkowa (integer). Przykład: "The value is %x" % 16 zwróci "The value is 10".
+%o - Sformatowanie jako liczba ósemkowa (integer). Przykład: "The value is %o" % 9 zwróci "The value is 11".
+%r - Sformatowanie jako reprezentacja obiektu (repr). Przykład: "The value is %r" % [1, 2, 3] zwróci "The value is [1, 2, 3]".
+Powyższe to tylko kilka przykładów opcji formatowania dostępnych przy użyciu operatora %. Istnieje wiele innych, które umożliwiają bardziej zaawansowane formatowanie,
+ takie jak szerokość pola, wyrównanie, wypełnienie zerami itp. Warto również zauważyć, że od wersji Python 3.6 zaleca się używanie bardziej nowoczesnej metody formatowania
+  z użyciem nawiasów klamrowych {} i metody format().
+
+
+Oto ściągawka dotycząca formatowania tekstu w języku Python przy użyciu nawiasów klamrowych {}, metody format() oraz operatora %:
+
+1. Formatowanie przy użyciu nawiasów klamrowych {} i metody format():
+
+a) Prosta zmienna:
+name = "John"
+age = 25
+print("My name is {} and I'm {} years old.".format(name, age))
+Wyjście:
+My name is John and I'm 25 years old.
+
+b) Indeksowanie argumentów:
+name = "Lisa"
+age = 30
+print("My name is {1} and I'm {0} years old.".format(age, name))
+Wyjście:
+My name is Lisa and I'm 30 years old.
+
+c) Formatowanie wartości liczbowych:
+pi = 3.14159
+print("The value of pi is {:.2f}".format(pi))
+Wyjście:
+The value of pi is 3.14
+
+d) Nazwane argumenty:
+person = {"name": "Alice", "age": 35}
+print("My name is {name} and I'm {age} years old.".format(**person))
+Wyjście:
+My name is Alice and I'm 35 years old.
+
+
+
+2. Formatowanie przy użyciu operatora %:
+a) Prosta zmienna:
+name = "Kate"
+age = 27
+print("My name is %s and I'm %d years old." % (name, age))
+Wyjście:
+My name is Kate and I'm 27 years old.
+
+b) Formatowanie wartości liczbowych:
+pi = 3.14159
+print("The value of pi is %.2f" % pi)
+Wyjście:
+The value of pi is 3.14
+
+c) Formatowanie wielu wartości:
+name = "Peter"
+age = 22
+print("My name is %s and I'm %d years old." % (name, age))
+Wyjście:
+My name is Peter and I'm 22 years old.
+
+Powyższe przykłady przedstawiają podstawowe zastosowanie formatowania tekstu
+w języku Python przy użyciu nawiasów klamrowych {}, metody format() oraz operatora %.
+Możesz je dostosować do własnych potrzeb, uwzględniając typy danych, które chcesz sformatować.

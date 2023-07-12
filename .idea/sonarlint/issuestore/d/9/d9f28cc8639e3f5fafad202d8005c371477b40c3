@@ -1,0 +1,9 @@
+
+jpython:S1192"KDefine a constant instead of duplicating this literal 'parameter:' 3 times.(Þ×ñó8§äƒ²”1
+lpython:S1192"HDefine a constant instead of duplicating this literal 'action:' 3 times.(é·Ç²þÿÿÿÿ8¨äƒ²”1
+<python:S3626"Remove this redundant return.(ÙãÞŸ8¨äƒ²”1
+rpython:S1542"NRename function "DoAction" to match the regular expression ^[a-z_][a-z0-9_]*$.(¢óÓÌþÿÿÿÿ8¨äƒ²”1
+<python:S3626"Remove this redundant return.(ÙãÞŸ8¨äƒ²”1
+rpython:S1542"NRename function "DoAction" to match the regular expression ^[a-z_][a-z0-9_]*$.(Å¡¦¥þÿÿÿÿ8¨äƒ²”1
+<python:S3626"Remove this redundant return.(ÙãÞŸ8¨äƒ²”1
+rpython:S1542"NRename function "DoAction" to match the regular expression ^[a-z_][a-z0-9_]*$.(ÿ‚µ©øÿÿÿÿ8¨äƒ²”1

@@ -26,3 +26,5 @@ print(medianLow)
 print(medianhigh)
 
 print('median:', (medianLow+medianhigh)/2)
+
+

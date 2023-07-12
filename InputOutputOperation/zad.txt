@@ -1,0 +1,4 @@
+#!/bin/bash if [ $# -eq 0 ]; then echo "Brakuje argumentu.Podaj ścieżkę do pliku lub katalogu." exit 1 fi path=$1 if [ ! -e "$path" ];then echo "Podanaścieżkanieistnieje." exit 1 fi # Sprawdź czy to jest plik if [ -f "$path" ]; 
+then echo "Podana ścieżka to plik." elif [ -d "$path" ]; then echo "Podana ścieżka to katalog." else echo "
+Podana ścieżka to inny rodzaj pliku." fi # Prawa dostępu permissions=$(stat -c "%A" "$path") echo 
+"Prawa dostępu: $permissions" # Właściciel owner=$(stat -c "%U" "$path") echo "Właściciel: $owner" # Data ostatniej modyfikacji modification_date=$(stat -c "%d.%m.%Y" "$path") echo "Data ostatniej modyfikacji: $modification_date" # Rozmiar pliku lub łączny rozmiar plików w katalogu (rekurencyjnie) size=0 if [ -f "$path" ]; then size=$(stat -c "%s" "$path") elif [ -d "$path" ]; then size=$(du -sb "$path" | awk '{print $1}') fi echo "Rozmiar: $size bajtów" 
