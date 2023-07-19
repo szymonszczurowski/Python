@@ -1,0 +1,5 @@
+www.python.com
+www.facebook.pl
+www.gmail.com
+www.office.pl
+www.pycharm.com

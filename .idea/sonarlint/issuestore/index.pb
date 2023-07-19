@@ -93,3 +93,33 @@ F
 String/text_formate.py,a\1\a16c22249bfdc379a204ebb7509dd082afc5b21c
 D
 String/string_format,2\3\232037e95dbfaf0da9011aea6bac702b59c8e7fa
+O
+InputOutputOperation/output.csv,b\3\b39d1c4f9b23774122846db8547143b406ee67e9
+O
+InputOutputOperation/orders.csv,c\a\ca3ff78c6de3a80acd20499f689cf6f1a69243c4
+Q
+!InputOutputOperation/exercise1.py,8\e\8ee8290e428dd0d9241bc84ef7c8a5c6d7204d32
+Q
+!InputOutputOperation/exercise2.py,d\2\d2e852b6ab8c1103d042992c2a291d72bd2d1be1
+Q
+!InputOutputOperation/exercise5.py,4\6\46ed9055ea33f1fb79b8a5138962bfc73820c464
+Q
+!InputOutputOperation/exercise4.py,2\9\290258d6f110b6e14bc142b32422da36f384f8c2
+H
+ErrorHandling/orders.csv,4\c\4c356eac2472c0a840f4d396f3baf414b5c55a6e
+Q
+!ErrorHandling/error_handling_1.py,f\3\f374051e0e0f2243d959658525154443bf46e91a
+K
+ErrorHandling/exercise_1.py,f\a\fa7d1e102f99f9e32b35b7fa1c38ae9dca530431
+Q
+!ErrorHandling/error_handling_2.py,2\9\295af936128f8c4d3d88ebd2d686684719c984a5
+K
+ErrorHandling/exercise_2.py,a\e\ae064f434ec68dc0eca97daec317c5afaf5d4951
+Q
+!ErrorHandling/error_handling_3.py,1\6\16f0df10ab6670930ffb183c0eaf3f50f80cea8a
+Q
+!ErrorHandling/error_handling_4.py,1\2\126f9f9651ad90fd8495a6bff4a51e5b10fd08ea
+G
+ErrorHandling/ex3_1.txt,c\9\c90e544faa8f61003c19e06ce7580f645431ce61
+K
+ErrorHandling/exercise_3.py,f\3\f3fba4e3d6be9c2f2c5b82cf7a1811a172234764
