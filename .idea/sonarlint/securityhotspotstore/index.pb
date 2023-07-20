@@ -111,8 +111,6 @@ H
 ErrorHandling/orders.csv,4\c\4c356eac2472c0a840f4d396f3baf414b5c55a6e
 K
 ErrorHandling/exercise_1.py,f\a\fa7d1e102f99f9e32b35b7fa1c38ae9dca530431
-Q
-!ErrorHandling/error_handling_2.py,2\9\295af936128f8c4d3d88ebd2d686684719c984a5
 K
 ErrorHandling/exercise_2.py,a\e\ae064f434ec68dc0eca97daec317c5afaf5d4951
 Q

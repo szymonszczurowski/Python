@@ -111,8 +111,6 @@ Q
 !ErrorHandling/error_handling_1.py,f\3\f374051e0e0f2243d959658525154443bf46e91a
 K
 ErrorHandling/exercise_1.py,f\a\fa7d1e102f99f9e32b35b7fa1c38ae9dca530431
-Q
-!ErrorHandling/error_handling_2.py,2\9\295af936128f8c4d3d88ebd2d686684719c984a5
 K
 ErrorHandling/exercise_2.py,a\e\ae064f434ec68dc0eca97daec317c5afaf5d4951
 Q
