@@ -25,5 +25,3 @@ obj2 = pd.read_csv("C:\\Users\\szczu\\Desktop\\data\\course-files\\pokemon.csv",
 print(obj2.name, '\n')
 obj2.name = 'Spped of pokemon'
 print(obj2.name, '\n')
-
-p

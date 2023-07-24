@@ -12,7 +12,7 @@ s2 = pd.Series(data = values, index = index)
 
 
 searchList = ['a', 'b']
-print(s.loc[searchList], '\n')
+print(s.loc[searchList], '\n') #Wyświetlenie tylko tych elementów
 
 searchListNonFound = ['a', 'b', 'f']
 # print(s.loc[searchListNonFound])
