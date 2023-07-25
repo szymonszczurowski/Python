@@ -135,7 +135,3 @@ I
 PANDAS/PANDAS/S02-L001.py,9\8\9867c2b55b6eb4aa3c0749ccdea293dca9753a8c
 E
 PANDAS/PANDAS/main.py,9\2\92c7497c5acdf5e573de331cbd76a513c4817057
-W
-'PANDAS/DataSeries/create_data_series.py,6\6\6602522dc03b85656f58676955d6efe0753c9366
-[
-+PANDAS/DataSeries/data_series_attributes.py,6\e\6e040bcb3bab0d07b14345e3c1ce857c20a041f3
