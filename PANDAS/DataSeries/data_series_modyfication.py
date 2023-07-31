@@ -5,23 +5,21 @@ import math as math
 
 from pandas import Series
 
-obj = pd.read_csv("C:\\Users\\szczu\\Desktop\\data\\course-files\\pokemon.csv", usecols=['Name', 'Attack'],
+pok = pd.read_csv("C:\\Users\\szczu\\Desktop\\data\\course-files\\pokemon.csv", usecols=['Name', 'Attack'],
                   index_col='Name').squeeze()
-pok = pd.Series(obj)
 
 #Przemnożenie przez 100
 pok100 = pok * 100
 print(pok100.head(), '\n')
 
 
-obj2 = pd.read_csv("C:\\Users\\szczu\\Desktop\\data\\course-files\\pokemon.csv", usecols=['Type 1', 'Name'], index_col='Name').squeeze()
-pok2 = pd.Series(obj2)
+pok2 = pd.read_csv("C:\\Users\\szczu\\Desktop\\data\\course-files\\pokemon.csv", usecols=['Type 1', 'Name'], index_col='Name').squeeze()
 
-#Trzeba dodać str
+#Trzeba dodać str, żeby modyfikować stringa
 pokUpper = pok2.str.upper()
 print(pokUpper.head(), '\n')
 
-#Dodanie przedrotska TYPE i uppercase
+#Dodanie przedrotstka TYPE i uppercase
 pokType = "TYPE:" + pok2.str.upper()
 print(pokType.head(), '\n')
 

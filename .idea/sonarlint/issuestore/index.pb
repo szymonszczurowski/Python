@@ -131,12 +131,6 @@ A
 Print/exercise.py,c\3\c32136cddfa181267ab770ec7ce222a67bacf4c1
 =
 Print/main.py,c\5\c531951fa929c00c45a51891fc7fa10b494c4a75
-I
-PANDAS/PANDAS/S02-L001.py,9\8\9867c2b55b6eb4aa3c0749ccdea293dca9753a8c
-E
-PANDAS/PANDAS/main.py,9\2\92c7497c5acdf5e573de331cbd76a513c4817057
-^
-.PANDAS/DataSeries/data_series_check_element.py,b\4\b450ad27812f667d78ee39d3315305dcf05bbb98
 M
 PANDAS/DataSeries/S02-L003.py,9\1\914544a9e7f95d285082a917297193675b611a4e
 M
@@ -149,29 +143,49 @@ M
 PANDAS/DataSeries/S02-L007.py,0\d\0de87315a10a1eaae924c979f79b1c4a3e06169c
 M
 PANDAS/DataSeries/S02-L006.py,1\e\1edb5020c7246035ebe568ff7ee2bd9934a736a2
-]
--PANDAS/DataSeries/data_series_define_index.py,6\7\6719e69a13dbdd6fe2252209a55567daa82707c6
-[
-+PANDAS/DataSeries/data_series_attributes.py,6\e\6e040bcb3bab0d07b14345e3c1ce857c20a041f3
 M
 PANDAS/DataSeries/S02-L008.py,2\6\267ec74c1101389ea4d1633309432e7dc8049eef
-Z
-*PANDAS/DataSeries/data_series_filtering.py,4\c\4c35d961386ccdb7236c29fdda18c4548a1d72f1
-W
-'PANDAS/DataSeries/create_data_series.py,6\6\6602522dc03b85656f58676955d6efe0753c9366
 M
 PANDAS/DataSeries/S02-L012.py,5\e\5ec60e0af942578474641bfb2986148c6c7fe802
+M
+PANDAS/DataSeries/S02-L009.py,5\3\5371865746c719e9ace93619b525252ebec35c75
+M
+PANDAS/DataSeries/S02-L013.py,a\5\a5b48d7234c410bfcb5de255a883ef2adb55e6ce
+E
+PANDAS/PANDAS/main.py,9\2\92c7497c5acdf5e573de331cbd76a513c4817057
+I
+PANDAS/PANDAS/S02-L001.py,9\8\9867c2b55b6eb4aa3c0749ccdea293dca9753a8c
+W
+'PANDAS/DataSeries/create_data_series.py,6\6\6602522dc03b85656f58676955d6efe0753c9366
+[
++PANDAS/DataSeries/data_series_attributes.py,6\e\6e040bcb3bab0d07b14345e3c1ce857c20a041f3
+X
+(PANDAS/DataSeries/data_series_methods.py,d\4\d42ad52345e041e3fd02952a13395391570b5ef8
+Z
+*PANDAS/DataSeries/data_series_filtering.py,4\c\4c35d961386ccdb7236c29fdda18c4548a1d72f1
+b
+2PANDAS/DataSeries/data_series_filtering_advance.py,b\1\b145d52e60f07417d225bbefbe39917d97f4d25a
 \
 ,PANDAS/DataSeries/data_series_data_import.py,1\5\1593a457ef10c0f6454dbdb93f2d42c0279d83b4
 g
 7PANDAS/DataSeries/standarts_methods_Python_vs_PANDAS.py,d\6\d6a50b31a197fdaa5093f77ed1348dc053c4a2b2
 U
 %PANDAS/DataSeries/data_series_sort.py,e\d\ede95a5fbee104f8cc3a842cff2d855e864902d0
+^
+.PANDAS/DataSeries/data_series_check_element.py,b\4\b450ad27812f667d78ee39d3315305dcf05bbb98
+a
+1PANDAS/DataSeries/data_series_post-index_value.py,9\d\9d75aded60937e510f3f732a7ee2e083d1286ecf
 [
 +PANDAS/DataSeries/data_series_post-value.py,0\a\0a802353389078a05ebec40f4fd79783508e87f6
-M
-PANDAS/DataSeries/S02-L009.py,5\3\5371865746c719e9ace93619b525252ebec35c75
 Y
 )PANDAS/DataSeries/reindex_intersection.py,6\7\67824e3e1c081cc7895bca1231ce2698366d3b21
-M
-PANDAS/DataSeries/S02-L013.py,a\5\a5b48d7234c410bfcb5de255a883ef2adb55e6ce
+]
+-PANDAS/DataSeries/data_series_define_index.py,6\7\6719e69a13dbdd6fe2252209a55567daa82707c6
+]
+-PANDAS/DataSeries/data_series_more_methods.py,d\e\de5cf24b477c3a4d541953a7d7dfa125ae55b345
+]
+-PANDAS/DataSeries/data_series_modyfication.py,c\2\c262076115b92894e71578aa91cdce1297b98207
+[
++PANDAS/DataSeries/data_series_method_map.py,e\d\ed25e2a99ec57507fda5ce3aa49d9013221c8346
+I
+PANDAS/DataFrame/basic.py,9\6\960f299656bc17338cf3ec4f855866aae3631a51

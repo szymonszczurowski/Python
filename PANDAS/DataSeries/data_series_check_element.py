@@ -13,7 +13,7 @@ print('ES' in countries)
 
 print(obj.head())
 #W obiketach series in działa z indeksami
-print('Venusaur' in obj) # Z wartościami nie działa
+print('Venusaur' in obj)
 print(3 in obj) #Domyślnie jest tam obj.index
 print(900 in obj)
 

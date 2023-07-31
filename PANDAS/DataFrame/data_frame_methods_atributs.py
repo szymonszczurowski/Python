@@ -28,7 +28,7 @@ print(series.shape, '\n================================')
 print(frame.shape, '\n')
 
 #Informacje na temat indexu i kolumny
-print(series.axes , '\n================================')
+print(series.axes, '\n================================')
 print(frame.axes, '\n') #lista opisującą index i liste opisującą kolumny
 
 print(series.index, '\n================================')
@@ -41,7 +41,7 @@ print(frame.columns, '\n') #Opis nazw kolumn
 print(series.values, '\n================================')
 print(frame.values, '\n') #w postaci list
 
-#Ifno o indexie, typy kloumn, podstawowe info. Sporo w jednym miejscu
+#Info o indexie, typy kloumn, podstawowe info. Sporo w jednym miejscu
 print(series.info(), '\n================================')
 print(frame.info(), '\n')
 

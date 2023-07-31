@@ -16,7 +16,7 @@ print(monotionicListSeries.product())  # Wymnożenie wszystkich liczb przez sieb
 print(monotionicListSeries.keys())  # jak zbudowany jest index, za pomocą atrubuty to .index
 print(monotionicListSeries.tolist())  # konwersja na list. Jest dużo metod konwersji
 
-print(monotionicListSeries.add(10))  # odanie do każdego elmentu danje wartosci, ale nie na stałe, nie zmodyfikowane
+print(monotionicListSeries.add(10))  # dodanie do każdego elmentu danej wartosci, ale nie na stałe, nie zmodyfikowane
 # Robią się kopie, wiec najlepiej przypsac ją do zmiennej
 newSeries = monotionicListSeries.add(10)
 print(newSeries)

@@ -3,15 +3,13 @@ import numpy as np
 import matplotlib.pyplot as plt
 import math as math
 
-obj = pd.read_csv("C:\\Users\\szczu\\Desktop\\data\\course-files\\pokemon.csv", usecols=['Name', 'Attack'],
+pok = pd.read_csv("C:\\Users\\szczu\\Desktop\\data\\course-files\\pokemon.csv", usecols=['Name', 'Attack'],
                   index_col='Name').squeeze()
-pok = pd.Series(obj)
 print(pok.head(), '\n')
 print(pok.count(), '\n')
 
-obj = pd.read_csv("C:\\Users\\szczu\\Desktop\\data\\course-files\\pokemon.csv", usecols=['Name', 'Type 2'],
+pokType = pd.read_csv("C:\\Users\\szczu\\Desktop\\data\\course-files\\pokemon.csv", usecols=['Name', 'Type 2'],
                   index_col='Type 2').squeeze()
-pokType = pd.Series(obj)
 print(pokType.head(), '\n')
 print(pokType.value_counts(), '\n') # POGRPuOWANIE I ZLICZENIE i SORTUJE MALEJĄCO
 print(pokType.value_counts().head(), '\n')

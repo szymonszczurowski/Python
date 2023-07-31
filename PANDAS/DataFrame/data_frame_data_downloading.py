@@ -25,7 +25,7 @@ print(s.loc[242])
 print(frame['Item'][242]) #Kolumna i index
 print(frame.loc[242].loc['Item']) #index i kolumna
 
-#Moż  łączyć najpeir wartość indeskoe, a potem informacje o kolumnie
+#Można  łączyć najpierw wartość indeksie, a potem informacje o kolumnie
 print(frame.loc[242, 'Item'])
 
 print(frame[['Item','Calories', 'TotalFat', 'Sugars']].head())
