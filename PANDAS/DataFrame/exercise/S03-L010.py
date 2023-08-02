@@ -1,9 +1,4 @@
-import pandas as pd
-import numpy as np
-
-fortune = pd.read_csv("C:\\Users\\szczu\\Desktop\\data\\course-files\\Fortune_500_2017.csv", low_memory=False,
-                   usecols=['Rank','Title','Employees','Profits','Assets'],
-                   index_col='Rank')
+x
 
 print(fortune.head())
 
