@@ -217,3 +217,7 @@ Z
 *PANDAS/DataFrame/data_frame_data_sorted.py,0\6\06699ed646d9fd13d054410f705cdb3444a7d5a4
 \
 ,PANDAS/DataFrame/data_frame_type_controle.py,f\3\f317d1d1b368d3be6b311fb80c205085a2f64625
+U
+%PANDAS/DataFrame/exercise/S03-L011.py,5\c\5c8add0ac7bb1a08198224b5e971097603bf0d00
+j
+:PANDAS/DataFrame/data_frame_isin&isnull&notnull&between.py,c\0\c0ce4333bfcc5c0a403df676fc824ee6836336f9
