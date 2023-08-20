@@ -11,6 +11,8 @@ print(frame.columns, '\n')
 frame.columns = ['name', 'bodyKg', 'brainKg']
 print(frame.head(), '\n')
 
+# professions.rename(columns={'income' : 'incomeDollarsPerYear'}, inplace=True)
+
 #ZMIANA NAZWY KOLUMNY #1 przy użyciu listy słownika. Można modyfikować np. 1 nazwe kolumny w listach trzeba wszystko nazwać
 newColumnNames = {
     'bodyKg': 'body_kg',
