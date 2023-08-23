@@ -20,4 +20,3 @@ print(air.head(10))
 
 air.set_index(["Activity Period", "Operating Airline","Activity Type Code"], inplace=True)
 print(air.head(10))
-
