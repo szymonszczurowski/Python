@@ -241,3 +241,41 @@ Z
 *PANDAS/DataFrame/data_frame_data_filter.py,d\4\d4a44f4c1d4bc2b0b040c823aed0b38da19cb3d3
 Z
 *PANDAS/DataFrame/data_frame_where&query.py,0\6\061de2a1391aeceba1951e28a305e25a0d7104e7
+<
+PANDAS/ex.py,d\c\dce3a9e1c6e87d45b0bf78cb3aeb32f7b1d587d7
+U
+%PANDAS/DataModification/reindexing.py,7\d\7d92a5573a030048360e5f0026241a36ba1c5c73
+X
+(PANDAS/DataFrame/data_frame_duplicate.py,6\4\64920bce04f13357c01945ee1691052279756ec8
+Y
+)PANDAS/DataModification/add_remove_row.py,1\5\153b7428ce35a4815d7db9d4344b77fc635389da
+`
+0PANDAS/DataModification/edit_column_and_index.py,1\8\185f19aab9f31ea62b7183ba5a2cacb00b5ba631
+\
+,PANDAS/DataModification/string_operations.py,a\a\aafd70a4c7813236523414b0be681d3a58d36307
+\
+,PANDAS/DataModification/data_modyfication.py,5\e\5ee864809eb60cac8adac4e1381f740dbdd5d9e8
+j
+:PANDAS/DataFrame/data_frame_isin&isnull&notnull&between.py,c\0\c0ce4333bfcc5c0a403df676fc824ee6836336f9
+[
++PANDAS/MultiIndex&PivotTables/multiindex.py,f\f\ffd1c797229772088ef41843daf708c1bf9626a0
+=
+PANDAS/ex2.py,7\8\78a6fb22b1ba056890e3d4123bd97e8201d1c86b
+b
+2PANDAS/MultiIndex&PivotTables/exercise/S05-L001.py,b\e\be62f2e39aae2ea2ad87a4db1ebbc618a18d35c8
+`
+0PANDAS/MultiIndex&PivotTables/search_by_index.py,b\3\b3aa88da0fd913ac7ff1dd13d9151bdd45e414b5
+m
+=PANDAS/MultiIndex&PivotTables/exercise/S05-L002-Multiindex.py,b\b\bb6cf21c22d3ac6341f901f58f65789b44b7b353
+Z
+*PANDAS/MultiIndex&PivotTables/transpose.py,9\4\941cf0cc9c1552312535a7c2986b636e613b3494
+r
+BPANDAS/MultiIndex&PivotTables/exercise/S05-L003 - Transposition.py,f\5\f5ecfabe806db8fb6fb55b45353166551d6e2c6a
+^
+.PANDAS/MultiIndex&PivotTables/stack_unstack.py,a\6\a6712f5a76aee99ab7348d987ff2ecd7ae4f0e53
+n
+>PANDAS/MultiIndex&PivotTables/exercise/S05-L003 - Swaplevel.py,5\4\541c697e66355355c825ff172a4ee96cfa0f9674
+r
+BPANDAS/MultiIndex&PivotTables/exercise/S05-L005 - stack unstack.py,a\9\a9247fb86b03981d20f8e543894831de6ad17dcf
+\
+,PANDAS/MultiIndex&PivotTables/pivot_table.py,b\6\b6da2a4e3d94aa3899d6ebfb923a30e044d9f053
