@@ -5,16 +5,12 @@ G
 Functions/exercise_3.py,5\7\575f67aeb42e33f5772e151d7608119bc0c03c7b
 G
 Functions/exercise_7.py,2\0\2072f32053b9355bb2e3585e84acf6132f707eca
-R
-"Advanced-Types/tuple_staticList.py,1\0\100bf6f82700fa74b5a43bf4c1b24153d2212832
 G
 Functions/exercise_4.py,0\e\0edc14475280239c75a06e11afdf4fadfd71853a
 G
 Functions/exercise_5.py,6\e\6ea4910217874b6ad7ad8ff9fcc76d98213fe7d9
 G
 Functions/exercise_6.py,d\5\d580f1b1346baa9b631b67548edd4b6df3f93b8b
-L
-Advanced-Types/dictionary.py,a\c\ac763328ab93bf46a240b1ca8242c5209f6366b6
 M
 AdvancedInformation/math_1.py,7\3\73afded369dfcbbf689682557e84643575503242
 T
@@ -29,46 +25,16 @@ K
 AdvancedInformation/text.py,a\4\a4092317c9dfac76fbb2b0991d00f48a353fa5af
 [
 +AdvancedInformation/time_module_calendar.py,6\2\620ceae8ef614ca99ee7259a17d62b6db07d2be1
-@
-Conditions/if.py,2\6\26027ca0e05e833ac3050190093c63134f222054
-E
-Conditions/ternary.py,0\6\0691c8916568e72cb39bc39aa8a92dd6fcf73b89
-H
-Conditions/exercise_3.py,0\6\06ebd513d263b41645da509f35b07638e1fbcae0
-F
-Conditions/exercise.py,d\2\d28f767273b2b031dcf050defb57e4a4d35ad129
-L
-Functions/defaultParametr.py,5\8\5860a5499614017653709b80b1676dd9683cf12e
 L
 Functions/exercise_7_geom.py,8\2\8266258ff2253fea149af94c3c500f57f55388e2
-G
-Functions/function_1.py,5\f\5f4946ec6d266176ba2018a363c2106894809efa
-G
-Functions/function_2.py,0\a\0ade28c169058347ec187bf41e303ac9ace78a9e
-G
-Functions/Parameters.py,4\f\4f719c7e8b90fb62873d72fc08d8e6e61449eeb2
-X
-(Functions/parameters_variable_quntity.py,d\9\d9f28cc8639e3f5fafad202d8005c371477b40c3
-C
-Functions/return.py,f\4\f4f30caaa091acc7c062a9722e037b07444b3cf7
-P
- Functions/simulating_a_switch.py,1\9\19d72760286f1b99273498462eeaec382a03716b
 Q
 !AdvancedInformation/exercise_2.py,a\5\a5c9b827c81ac9f3c1fe1556781c640234110389
 @
 Loop/continue.py,4\4\44aebe34d639ff8ec5d03f9be57038835bf82561
 =
 Loop/for_3.py,4\a\4abcac510e0b697ec0d0317f3803c7fe196ec274
-C
-Number/int_float.py,3\4\340b5f715f0fb7fd846911642022eff6bfd10d9b
 >
 Others/tips.py,2\7\274bbe9d945194bd383e5048b99f72013ccadcb4
-B
-String/string_2.py,7\a\7a776176aa0186a0d1719e55f84e25f23f42b6b0
-B
-String/string_3.py,b\2\b28296ab476f5a730d369a8c0bb376c48f4d6863
-D
-String/string_format,2\3\232037e95dbfaf0da9011aea6bac702b59c8e7fa
 O
 InputOutputOperation/output.csv,b\3\b39d1c4f9b23774122846db8547143b406ee67e9
 O
@@ -95,8 +61,6 @@ Q
 !ErrorHandling/error_handling_2.py,2\9\295af936128f8c4d3d88ebd2d686684719c984a5
 V
 &AdvancedInformation/dateTime_module.py,8\7\872f752c252477c711a5a54c7dbedcc2fd69fdfa
-B
-Conditions/elif.py,b\9\b93480998a70078f23a1a8119a3a78c509d6078e
 Q
 !ErrorHandling/error_handling_1.py,f\3\f374051e0e0f2243d959658525154443bf46e91a
 Q
@@ -115,16 +79,6 @@ B
 Others/exercise.py,e\6\e6596d3c8ee5635a0c79a63d4aacfdb45dbd70ba
 @
 Others/string.py,8\2\82d11f07b922a88569b24f739b3b7a84db8fc17f
-B
-String/string_1.py,c\3\c3ad5bd05eb253d519512787f1e09943e37d3248
-F
-String/text_formate.py,a\1\a16c22249bfdc379a204ebb7509dd082afc5b21c
-D
-String/exercise_1.py,9\e\9edfcc645527af7c69b93de896b0bde779593095
-A
-Print/exercise.py,c\3\c32136cddfa181267ab770ec7ce222a67bacf4c1
-=
-Print/main.py,c\5\c531951fa929c00c45a51891fc7fa10b494c4a75
 M
 PANDAS/DataSeries/S02-L003.py,9\1\914544a9e7f95d285082a917297193675b611a4e
 M
@@ -157,8 +111,6 @@ g
 7PANDAS/DataSeries/standarts_methods_Python_vs_PANDAS.py,d\6\d6a50b31a197fdaa5093f77ed1348dc053c4a2b2
 a
 1PANDAS/DataSeries/data_series_post-index_value.py,9\d\9d75aded60937e510f3f732a7ee2e083d1286ecf
-]
--PANDAS/DataSeries/data_series_define_index.py,6\7\6719e69a13dbdd6fe2252209a55567daa82707c6
 U
 %PANDAS/DataFrame/exercise/S03-L001.py,e\0\e04c9e2b53ff8319dcfe7e8527a0ad8c04258f4c
 U
@@ -173,8 +125,6 @@ U
 %PANDAS/DataFrame/exercise/S03-L006.py,5\1\514bfbffae8af3af79e2eaaff39512fd1022ca5c
 Z
 *PANDAS/DataFrame/data_frame_data_sorted.py,0\6\06699ed646d9fd13d054410f705cdb3444a7d5a4
-\
-,PANDAS/DataFrame/data_frame_type_controle.py,f\3\f317d1d1b368d3be6b311fb80c205085a2f64625
 U
 %PANDAS/DataFrame/exercise/S03-L011.py,5\c\5c8add0ac7bb1a08198224b5e971097603bf0d00
 U
@@ -195,22 +145,16 @@ d
 4PANDAS/DataModification/perpare_data_after_import.py,f\b\fb2ab7252d3e205c8c0921b34daa642cecb7056b
 \
 ,PANDAS/DataModification/Exercise/S04-L001.py,d\b\db222320c246e5d6e7a388e60d66f16b979b66f0
-G
-Advanced-Types/lists.py,f\4\f491d04103c36a1b10287a199595b15489ddd50e
 \
 ,PANDAS/DataModification/Exercise/S04-L004.py,a\4\a4e7a909232ea18dd21fe68fe96132dce077e7b2
 ;
 Loop/for.py,1\b\1b2ff61e986baa8f10363f7ba4c2f115246d0825
-X
-(PANDAS/DataSeries/data_series_methods.py,d\4\d42ad52345e041e3fd02952a13395391570b5ef8
 Z
 *PANDAS/DataSeries/data_series_filtering.py,4\c\4c35d961386ccdb7236c29fdda18c4548a1d72f1
 U
 %PANDAS/DataSeries/data_series_sort.py,e\d\ede95a5fbee104f8cc3a842cff2d855e864902d0
 [
 +PANDAS/DataSeries/data_series_post-value.py,0\a\0a802353389078a05ebec40f4fd79783508e87f6
-\
-,PANDAS/DataSeries/data_series_data_import.py,1\5\1593a457ef10c0f6454dbdb93f2d42c0279d83b4
 ]
 -PANDAS/DataSeries/data_series_modyfication.py,c\2\c262076115b92894e71578aa91cdce1297b98207
 ]
@@ -219,12 +163,8 @@ U
 +PANDAS/DataSeries/data_series_method_map.py,e\d\ed25e2a99ec57507fda5ce3aa49d9013221c8346
 Y
 )PANDAS/DataSeries/reindex_intersection.py,6\7\67824e3e1c081cc7895bca1231ce2698366d3b21
-^
-.PANDAS/DataSeries/data_series_check_element.py,b\4\b450ad27812f667d78ee39d3315305dcf05bbb98
 I
 PANDAS/DataFrame/basic.py,9\6\960f299656bc17338cf3ec4f855866aae3631a51
-[
-+PANDAS/DataSeries/data_series_attributes.py,6\e\6e040bcb3bab0d07b14345e3c1ce857c20a041f3
 _
 /PANDAS/DataFrame/data_frame_methods_atributs.py,5\5\55bdcaa1ead380f1c9b011acd860a661254506a0
 `
@@ -233,8 +173,6 @@ _
 0PANDAS/DataFrame/data_frame_data_clean_fillna.py,e\2\e29636fe1b3cadcd244d4bd5be45bcd8731e3e4a
 `
 0PANDAS/DataFrame/data_frame_add_remove_column.py,0\e\0eae991cb86dc748dc54ec61f3839d89152da77e
-_
-/PANDAS/DataFrame/data_frame_data_downloading.py,4\b\4b618dc2e1d8e5d21064efe03797767ea0b68cd9
 V
 &PANDAS/DataFrame/data_frame_ranking.py,c\0\c0c5fe08b92d155572efee5889c4f8c6bbdb7fb6
 Z
@@ -279,3 +217,27 @@ r
 BPANDAS/MultiIndex&PivotTables/exercise/S05-L005 - stack unstack.py,a\9\a9247fb86b03981d20f8e543894831de6ad17dcf
 \
 ,PANDAS/MultiIndex&PivotTables/pivot_table.py,b\6\b6da2a4e3d94aa3899d6ebfb923a30e044d9f053
+U
+%PANDAS/MultiIndex&PivotTables/melt.py,6\3\63fc9f4099ca949939c77fe8dae7530001e1749b
+p
+@PANDAS/MultiIndex&PivotTables/exercise/S05-L006 - pivot_table.py,1\f\1f9d77bc848e20490034714309554175892c4749
+L
+PANDAS/DataGrouping/agg().py,c\a\ca51229e9ba15e9d123b12515894ee50a507df03
+X
+(PANDAS/DataGrouping/GroupBY&multindex.py,b\4\b4915666310d93336ff36c063d0d713314e67ea6
+T
+$PANDAS/DataGrouping/data_grouping.py,f\5\f51c370588da53a20d8557eae8638806f74e59dd
+X
+(PANDAS/DataGrouping/exercies/S06-L001.py,f\d\fdb53817b8a317c5a05af362ec45cd49d83b3925
+S
+#PANDAS/DataJoin/left&right_merge.py,c\7\c798b8b43940cea1f81607c01d97877c8fc31774
+X
+(PANDAS/DataJoin/multiple_object_merge.py,a\4\a499f4b18c373c9695df17de071db5b38973ee59
+U
+%PANDAS/DataGrouping/Groupby_method.py,4\8\489dcfb6c774e383d2653db262e1b73e997da2ee
+_
+/PANDAS/DataGrouping/aggregation_calculations.py,6\e\6e578e6c59ffff037eca5c6017afed45433909c1
+O
+PANDAS/DataJoin/merge_option.py,d\b\db73aa9943ad144589366a0fb5cbfcec3b8f6737
+S
+#PANDAS/DataGrouping/using_groups.py,3\c\3c34da80ce9c12d6967d1ccf22dc63d43073d9b7

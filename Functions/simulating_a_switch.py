@@ -23,8 +23,7 @@
 # W PYTHON NIE MA SWITCH ALE MOŻNA ZASYMULOWAC TO NP. TAK
 
 def WeekDayInFrench(dayNumber):
-
-    #dictionary
+    # dictionary
     names = {
         0: 'lundi',
         1: 'mardi',
@@ -36,7 +35,26 @@ def WeekDayInFrench(dayNumber):
     }
     return names.get(dayNumber, "Error")
 
+
 print(WeekDayInFrench(4))
 print(WeekDayInFrench(6))
 
+# JEDNAK JEST
 
+match 4:
+    case 0:
+        'lundi';
+    case 1:
+        'mardi';
+    case 2:
+        'mercedi';
+    case 3:
+        'jeudi';
+    case 4:
+        print('lundi');
+    case 5:
+        'mardi';
+    case 6:
+        'mercedi';
+    case _:
+        'error!';
